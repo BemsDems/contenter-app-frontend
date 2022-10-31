@@ -1,0 +1,4 @@
+#Mon Oct 31 18:53:22 MSK 2022
+base.0=G\:\\VisualDevProjects\\contenter-app-frontend\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
